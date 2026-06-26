@@ -31,3 +31,9 @@ The bot automatically posts a comment like this on every PR:
 - **Cloudflare Tunnel** — exposes local server to GitHub webhooks
 
 ## 📁 Project Structure
+
+## Author
+
+**Oishi Bhattacharya**  
+B.Tech CST — Institute of Engineering and Management, Kolkata  
+[GitHub](https://github.com/oishi503)
